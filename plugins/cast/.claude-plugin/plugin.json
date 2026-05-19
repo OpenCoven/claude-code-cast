@@ -1,0 +1,7 @@
+{
+  "name": "cast",
+  "description": "Cast integration for Claude Code: emits Coven agent events for local-first session status, notifications, and future UI surfaces.",
+  "author": {
+    "name": "OpenCoven"
+  }
+}

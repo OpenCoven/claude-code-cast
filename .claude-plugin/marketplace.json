@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-cast",
+  "description": "OpenCoven Cast integrations for Claude Code.",
+  "owner": {
+    "name": "OpenCoven"
+  },
+  "plugins": [
+    {
+      "name": "cast",
+      "description": "Cast integration for Claude Code: emits Coven agent events for local-first session status, notifications, and future UI surfaces.",
+      "author": {
+        "name": "OpenCoven"
+      },
+      "category": "productivity",
+      "source": "./plugins/cast",
+      "homepage": "https://github.com/OpenCoven/claude-code-cast"
+    }
+  ]
+}
